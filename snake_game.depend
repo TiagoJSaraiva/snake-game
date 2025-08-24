@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1756017328 source:c:\users\tiago\onedrive\documentos\snake_game\snake_game\constants.cpp
+	"Constants.h"
+
+1756017454 c:\users\tiago\onedrive\documentos\snake_game\snake_game\constants.h
+	<random>
+	<ctime>
+
+1756017286 source:c:\users\tiago\onedrive\documentos\snake_game\snake_game\food.cpp
+	"Food.h"
+	"raylib.h"
+	"Constants.h"
+
+1756017409 c:\users\tiago\onedrive\documentos\snake_game\snake_game\food.h
+	<vector>
+	"Position.h"
+	"Snake.h"
+
+1756017469 c:\users\tiago\onedrive\documentos\snake_game\snake_game\position.h
+
+1756017439 c:\users\tiago\onedrive\documentos\snake_game\snake_game\snake.h
+	<vector>
+	"Position.h"
+
+1754432895 c:\raylib\raylib\src\raylib.h
+	<stdarg.h>
+	<stdbool.h>
+
+1756017234 source:c:\users\tiago\onedrive\documentos\snake_game\snake_game\game.cpp
+	"Game.h"
+	<iostream>
+
+1756017344 c:\users\tiago\onedrive\documentos\snake_game\snake_game\game.h
+	"raylib.h"
+	<vector>
+	<random>
+	"Snake.h"
+	"Food.h"
+	"Obstacle.h"
+	"PoisonFood.h"
+	"Constants.h"
+
+1756017393 c:\users\tiago\onedrive\documentos\snake_game\snake_game\obstacle.h
+	"Position.h"
+
+1756017373 c:\users\tiago\onedrive\documentos\snake_game\snake_game\poisonfood.h
+	"Position.h"
+	"Snake.h"
+
+1756017270 source:c:\users\tiago\onedrive\documentos\snake_game\snake_game\obstacle.cpp
+	"Obstacle.h"
+	"raylib.h"
+	"Constants.h"
+
+1756017254 source:c:\users\tiago\onedrive\documentos\snake_game\snake_game\poisonfood.cpp
+	"PoisonFood.h"
+	"raylib.h"
+	"Constants.h"
+
+1756017315 source:c:\users\tiago\onedrive\documentos\snake_game\snake_game\position.cpp
+	"Position.h"
+
+1756017304 source:c:\users\tiago\onedrive\documentos\snake_game\snake_game\snake.cpp
+	"Snake.h"
+	"raylib.h"
+	"Constants.h"
+
+1756017896 source:c:\users\tiago\onedrive\documentos\snake_game\snake_game\main.cpp
+	"Game.h"
+	"Constants.h"
+
